@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Mohammed Asaad CV</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\Asaad.jpg" alt="Mohammed Asaad" width="100"></td>
+      <td>
+        <h1>Mohammed Asaad</h1>
+        <p>
+        <h2>WorkShop Manager at Port Said Ship Yard, <em><a href="https://www.suezcanal.gov.eg/English/Pages/default.aspx">Suez Canal Authority</a></em></h2>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <hr color=red noshade width="1000">
+  <p>
+  <h1><strong><em>About</em></strong></h1>
+  <h3>Five years experience in steel making as a rolling then casting engineer in one of the biggest company in egypt and entire middle east, EZZSTEEL,
+    then I moved to work at Suez Canal Authority one of the biggest organization working in the field of ship building and ship repair.</h3>
+  </p>
+  <hr noshade width="1000">
+  <h1><strong><em>Experience</em></strong></h1>
+  <table cellspacing="10">
+    <tr>
+      <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\suez canal logo.png" alt="SCA logo" width="100"></td>
+      <td><h2>Suez Canal Authority</h2>
+        <p><h2>5 yrs 1 mo</h2></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table cellspacing="10">
+    <tr>
+      <td><h3>Mechanical Engineer</h3></td>
+    <td><h3>April 2015-May 2018</h3></td>
+      <td><p><h3>I was working as a mechanical maintenance engineer in ship mechanics sector at port-Said shipyard. I was responsible for managing maintenance crew to
+        disassembly, maintenance, assembly and realignment of different ship parts(propellers, pumps, valves,..) during survey.</h3></p></td>
+    </tr>
+  </table>
+  <br>
+  <table cellspacing="10">
+    <tr>
+      <td><h3>WorkShop Manager</h3></td>
+    <td><h3>May2015-Present</h3></td>
+      <td><p><h3>Now I am working as manager for assembly workshop in Mechanical Sector at Port-Said Shipyard. My area of expertise including ship repair
+      project management, dredegers maintainence programs including both types; hopper and cutter and managing manpower to achieve goals</h3></p></td>
+    </tr>
+  </table>
+  <br>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\EZZSTEEL logo.jpg" alt="EZZSTEEL logo" width="100"></td>
+      <td><h2><a href="http://www.ezzsteel.com/">EZZSTEEL</a></h2>
+        <p><h2>4 yrs 4 mo</h2></p>
+      </td>
+    </tr>
+  </table>
+  <table cellspacing="20">
+    <tr>
+      <td><h3>Casting Engineer</h3></td>
+      <td><h3>Oct 2013-Mar 2015</h3></td>
+      <td><h3>Job Description</h3>
+<ol>
+  <li><h4>Responsible for monitoring continuous casting process to achieve target productivity and quality</h4></li>
+  <li><h4>Managing operation crew during the shift to achieve KPI's taken in consideration safety rules</h4></li>
+  <li><h4>Prepare required reports and data analysis for the process of continuous casting</h4></li>
+  <li><h4>Responsible for training operation crew (operators, technicians) for the purpose of continuous improvement</h4></li>
+</ol>
+      </td>
+    </tr>
+  </table>
+  <br>
+</table>
+<table cellspacing="20">
+  <tr>
+    <td><h3>Rolling Engineer</h3></td>
+    <td><h3>Dec 2010-Oct 2013</h3></td>
+    <td><h3>Job Description</h3>
+<ol>
+<li><h4>Responsible for monitoring hot rolling process to achieve target productivity and quality</h4></li>
+<li><h4>Managing operation crew during the shift to achieve KPI's taken in consideration safety rules</h4></li>
+<li><h4>Prepare required reports and data analysis for the process of hot rolled coils production</h4></li>
+<li><h4>Responsible for training operation crew (operators, technicians) for the purpose of continuous improvement</h4></li>
+</ol>
+    </td>
+  </tr>
+</table>
+<br>
+<table cellspacing="20">
+  <tr>
+    <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\Yazeed logo.jpg" alt="Yazeed Logo" width="100"></td>
+    <td><h2><a href="http://www.abouelyazeed.com/">Abouel Yazeed Group</a></h2>
+      <p><h2>One Year</h2></p>
+    </td>
+  </tr>
+</table>
+<p><h4>I was working as a project enginner at Abouel Yazeed Group. The company is a familiar sub-contractor and supplier for exhaust systems
+for large Automative companies in Egypt. As a project manager, I was responsible for new project from prototyping, manufacturing initial
+patches, get approve for this product from Automative company and then prepare production & quality plans for production section.</h4></p>
+<hr noshade width="1000">
+<h1><strong><em>Education</em></strong></h1>
+<table cellspacing="10">
+  <tr>
+    <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\Mansoura logo.png" alt="Mansoura logo" width="100"></td>
+    <td><h2><a href="http://www.mans.edu.eg/en/">Mansoura University</a></h2>
+      <p><h2>Bachelor's Degree in Mechanical Engineering, Grade Very good with honor (5th), 2009</h2></p>
+    </td>
+  </tr>
+</table>
+<h1><strong><em>Licenses & Certifications</em></strong></h1>
+<table cellspacing="10">
+  <tr>
+    <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\AUC logo.jpg" alt="AUC logo" width="100"></td>
+    <td><h2><a href="https://www.aucegypt.edu/ar/home-ar/">American University in Cairo</a></h2>
+      <p><h2>Training of Trainers, 2014</h2></p>
+    </td>
+  </tr>
+</table>
+<hr noshade width="1000">
+<p><h1><strong><em>Skills</em></strong></h1><h4>(out of Five)</h4></p>
+<table cellspacing="20">
+  <tr>
+    <td><h3>English</h3></td>
+    <td>⭐⭐⭐⭐</td>
+    <td><h3>MS Office</h3></td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td><h3>AutoCAD</h3></td>
+    <td>⭐⭐⭐</td>
+    <td><h3>Web Development</h3></td>
+    <td>⭐😊</td>
+  </tr>
+</table>
+<hr noshade width="1000">
+<h1><strong><em>Contact Information</em></strong></h1>
+<h2><a href="contact information.html">Pess Here ✋</a></h2>
+
+
+</html>
