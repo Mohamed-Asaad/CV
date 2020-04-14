@@ -8,7 +8,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\Asaad.jpg" alt="Mohammed Asaad" width="100"></td>
+      <td><img src="Asaad.jpg" alt="Mohammed Asaad" width="100"></td>
       <td>
         <h1>Mohammed Asaad</h1>
         <p>
