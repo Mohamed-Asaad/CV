@@ -27,7 +27,7 @@
   <h1><strong><em>Experience</em></strong></h1>
   <table cellspacing="10">
     <tr>
-      <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\suez canal logo.png" alt="SCA logo" width="100"></td>
+      <td><img src="suez canal logo.png" alt="SCA logo" width="100"></td>
       <td><h2>Suez Canal Authority</h2>
         <p><h2>5 yrs 1 mo</h2></p>
       </td>
@@ -54,7 +54,7 @@
   <br>
   <table cellspacing="20">
     <tr>
-      <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\EZZSTEEL logo.jpg" alt="EZZSTEEL logo" width="100"></td>
+      <td><img src="EZZSTEEL logo.jpg" alt="EZZSTEEL logo" width="100"></td>
       <td><h2><a href="http://www.ezzsteel.com/">EZZSTEEL</a></h2>
         <p><h2>4 yrs 4 mo</h2></p>
       </td>
@@ -93,7 +93,7 @@
 <br>
 <table cellspacing="20">
   <tr>
-    <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\Yazeed logo.jpg" alt="Yazeed Logo" width="100"></td>
+    <td><img src="Yazeed logo.jpg" alt="Yazeed Logo" width="100"></td>
     <td><h2><a href="http://www.abouelyazeed.com/">Abouel Yazeed Group</a></h2>
       <p><h2>One Year</h2></p>
     </td>
@@ -106,7 +106,7 @@ patches, get approve for this product from Automative company and then prepare p
 <h1><strong><em>Education</em></strong></h1>
 <table cellspacing="10">
   <tr>
-    <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\Mansoura logo.png" alt="Mansoura logo" width="100"></td>
+    <td><img src="Mansoura logo.png" alt="Mansoura logo" width="100"></td>
     <td><h2><a href="http://www.mans.edu.eg/en/">Mansoura University</a></h2>
       <p><h2>Bachelor's Degree in Mechanical Engineering, Grade Very good with honor (5th), 2009</h2></p>
     </td>
@@ -115,7 +115,7 @@ patches, get approve for this product from Automative company and then prepare p
 <h1><strong><em>Licenses & Certifications</em></strong></h1>
 <table cellspacing="10">
   <tr>
-    <td><img src="C:\Users\engin\Desktop\Web_Development\Web Develop\HTML-Personal Site\AUC logo.jpg" alt="AUC logo" width="100"></td>
+    <td><img src="AUC logo.jpg" alt="AUC logo" width="100"></td>
     <td><h2><a href="https://www.aucegypt.edu/ar/home-ar/">American University in Cairo</a></h2>
       <p><h2>Training of Trainers, 2014</h2></p>
     </td>
